@@ -32,7 +32,7 @@ export default function Home() {
                     </div>
                     <div className="banner_style_1">
                         {faChartIcon}
-                        <h4>Bubsiness Analysis</h4>
+                        <h4>Business Analysis</h4>
                     </div>
                     <div className="banner_style_1 banner_style_2">
                         {faShieldIcon}
